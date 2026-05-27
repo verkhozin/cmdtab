@@ -7,7 +7,7 @@
 <p align="center">Cmd+Tab replacement for macOS with app groups — switch within context, not across everything.</p>
 
 <p align="center">
-  <img src="docs/cmdtabDemo.gif" alt="cmdtab demo" width="600" />
+  <video src="https://github.com/verkhozin/cmdtab/raw/main/docs/cmdtabDemo.mp4" width="600" autoplay loop muted playsinline></video>
 </p>
 
 Organise your apps into groups like "Dev", "Comms", "Personal" and switch only within the active group. One hotkey, zero noise.
