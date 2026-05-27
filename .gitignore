@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcodeproj/
+!project.yml
+build/
+DerivedData/
+*.xcworkspace/
+*.xcuserdata/
+xcuserdata/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+.build/
+Packages/
+Package.resolved
+.swiftpm/
+
+# CocoaPods / Carthage (not used, but be safe)
+Pods/
+Carthage/Build/
+
+# Misc
+*.log

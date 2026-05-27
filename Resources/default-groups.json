@@ -1,0 +1,25 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "All",
+    "entries": []
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Dev",
+    "entries": [
+      { "bundleIdentifier": "com.apple.dt.Xcode", "displayName": "Xcode" },
+      { "bundleIdentifier": "com.microsoft.VSCode", "displayName": "VS Code" },
+      { "bundleIdentifier": "com.googlecode.iterm2", "displayName": "iTerm" }
+    ]
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "name": "Comms",
+    "entries": [
+      { "bundleIdentifier": "com.tinyspeck.slackmacgap", "displayName": "Slack" },
+      { "bundleIdentifier": "com.apple.MobileSMS", "displayName": "Messages" },
+      { "bundleIdentifier": "com.apple.mail", "displayName": "Mail" }
+    ]
+  }
+]
